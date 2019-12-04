@@ -5,7 +5,7 @@ date: 2015-02-06T14:37:44.000Z
 categories: update
 ---
 
-<img src="/images/fulls/01.jpg" class="fit image"> Suspendisse pellentesque mollis turpis, vitae ullamcorper arcu sagittis in. Pellentesque viverra, diam vel ultrices lobortis, urna diam efficitur diam, non ultricies enim massa et neque. Mauris lacinia purus nibh, ac consequat mi molestie ac. Suspendisse at sapien ac magna posuere imperdiet eget id nisi.
+<img src="/images/fulls/01.jpg" class="fit image"> Suspendisse 生命中，有些人来了又去，有些人去而复返，有些人近在咫尺，有些人远在天涯，有些人擦身而过，有些人一路同行。或许在某两条路的尽头相遇，结伴同行了一段路程，又在下一个分岔口道别。无论如何，终免不了曲终人散的[伤感](https://www.duanwenxue.com/shanggan/)。远在天涯的朋友：或许已是遥远得无法问候，但还是谢谢您曾经的结伴同行。
 
 Nulla facilisi. Pellentesque id magna eu sapien consectetur pulvinar nec eget massa. Nunc ut volutpat felis. Vestibulum pharetra ligula vel mattis aliquam. Etiam tempor vitae nulla nec euismod. Vivamus eget justo libero. Curabitur dictum, turpis vel porttitor semper, elit turpis vehicula nibh, quis mollis metus tortor at magna.
 

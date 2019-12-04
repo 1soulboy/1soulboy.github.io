@@ -1,7 +1,7 @@
 ---
 layout: post
 ---
-<img src="/images/fulls/03.jpg" class="fit image"> Curabitur orci turpis, egestas placerat velit eget, dictum pellentesque ipsum. Suspendisse potenti. Suspendisse ac maximus arcu. Sed ut mattis ex. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum eleifend odio vitae varius aliquam. Quisque ac pretium nisi. Curabitur tempus urna ac ultrices commodo.
+<img src="/images/fulls/03.jpg" class="fit image"> Curabitur orci 生命中，有些人来了又去，有些人去而复返，有些人近在咫尺，有些人远在天涯，有些人擦身而过，有些人一路同行。或许在某两条路的尽头相遇，结伴同行了一段路程，又在下一个分岔口道别。无论如何，终免不了曲终人散的[伤感](https://www.duanwenxue.com/shanggan/)。远在天涯的朋友：或许已是遥远得无法问候，但还是谢谢您曾经的结伴同行。
 
 Curabitur iaculis est at mattis mattis. Aliquam erat volutpat. Etiam vitae cursus quam. Nunc ultricies nunc non lorem fringilla cursus. Etiam dapibus libero ac turpis accumsan pulvinar. Sed auctor velit eget mi consequat bibendum. Aliquam interdum purus eget metus pretium ullamcorper.
 
